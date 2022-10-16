@@ -1,7 +1,7 @@
 # 30dayMakeOS
 《30 天自制操作系统》读书笔记。
 # 个人进度
-1. 02_day/helloos4
+1. 04_day/harib01b
 # 参考资料
 1. 作者网站：http://hrb.osask.jp/
 2. 随书光盘文件：https://gitee.com/paud/30daysOS
